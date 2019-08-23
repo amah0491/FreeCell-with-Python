@@ -1,0 +1,5 @@
+Four commands:
+Move to Foundation
+Move to Freecell
+Move to Sidelane
+Move to Emptylane
